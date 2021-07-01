@@ -1,6 +1,6 @@
-- 👋 Hi,my name is Johnny, I’m FullStack Developer
-- 👀 I’m interested in astronomy
-- 🌱 I’m currently learning Laravel ,and vue
+- 👋 Hi,my name is Johnny, I’m Front-End Developer
+- 👀 I’m big fan of astronomy
+- 🌱 I’m currently learning Javascipt ES6 ,and making same Laravel,vue,php project better :P
 
 <!---
 Johnny0n/Johnny0n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
